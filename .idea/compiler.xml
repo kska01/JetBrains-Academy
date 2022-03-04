@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Simple_Tic-Tac-Toe.Simple_Tic-Tac-Toe-task.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Overview_of_the_basic_program-I_like_Kotlin.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Overview_of_the_basic_program-The_Hello_World_program.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Overview_of_the_basic_program-Theory.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Overview_of_the_basic_program-Your_name.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.util.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
