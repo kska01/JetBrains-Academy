@@ -20,6 +20,13 @@
             <option value="$PROJECT_DIR$/Simple Tic-Tac-Toe/task/build/reports/tests" />
             <option value="$PROJECT_DIR$/Simple Tic-Tac-Toe/task/build/test-results" />
             <option value="$PROJECT_DIR$/Simple Tic-Tac-Toe/task/build/tmp" />
+            <option value="$PROJECT_DIR$/Topics/Data types/Fix the program" />
+            <option value="$PROJECT_DIR$/Topics/Data types/How to declare a type" />
+            <option value="$PROJECT_DIR$/Topics/Data types/Legitimate literals" />
+            <option value="$PROJECT_DIR$/Topics/Data types/Right type" />
+            <option value="$PROJECT_DIR$/Topics/Data types/Statements" />
+            <option value="$PROJECT_DIR$/Topics/Data types/The form of declaration without type inference" />
+            <option value="$PROJECT_DIR$/Topics/Data types/Theory" />
             <option value="$PROJECT_DIR$/Topics/Overview of the basic program/I like Kotlin" />
             <option value="$PROJECT_DIR$/Topics/Overview of the basic program/The Hello World program" />
             <option value="$PROJECT_DIR$/Topics/Overview of the basic program/The eternal truth" />
@@ -29,6 +36,7 @@
             <option value="$PROJECT_DIR$/Topics/Standard input/Theory" />
             <option value="$PROJECT_DIR$/Topics/Standard output/Correct the code" />
             <option value="$PROJECT_DIR$/Topics/Standard output/First, second, third" />
+            <option value="$PROJECT_DIR$/Topics/Standard output/From 0 to 9" />
             <option value="$PROJECT_DIR$/Topics/Standard output/Print a triangle" />
             <option value="$PROJECT_DIR$/Topics/Standard output/Print code" />
             <option value="$PROJECT_DIR$/Topics/Standard output/Theory" />

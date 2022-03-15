@@ -10,6 +10,13 @@
       <module name="Simple_Tic-Tac-Toe.Simple_Tic-Tac-Toe-task-build-test-results.main" target="11" />
       <module name="Simple_Tic-Tac-Toe.Simple_Tic-Tac-Toe-task-build-tmp.main" target="11" />
       <module name="Simple_Tic-Tac-Toe.Simple_Tic-Tac-Toe-task.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Data_types-Fix_the_program.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Data_types-How_to_declare_a_type.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Data_types-Legitimate_literals.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Data_types-Right_type.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Data_types-Statements.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Data_types-The_form_of_declaration_without_type_inference.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Data_types-Theory.main" target="11" />
       <module name="Simple_Tic-Tac-Toe.Topics-Overview_of_the_basic_program-I_like_Kotlin.main" target="11" />
       <module name="Simple_Tic-Tac-Toe.Topics-Overview_of_the_basic_program-The_eternal_truth.main" target="11" />
       <module name="Simple_Tic-Tac-Toe.Topics-Overview_of_the_basic_program-The_Hello_World_program.main" target="11" />
@@ -19,6 +26,7 @@
       <module name="Simple_Tic-Tac-Toe.Topics-Standard_input-Theory.main" target="11" />
       <module name="Simple_Tic-Tac-Toe.Topics-Standard_output-Correct_the_code.main" target="11" />
       <module name="Simple_Tic-Tac-Toe.Topics-Standard_output-First,_second,_third.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Standard_output-From_0_to_9.main" target="11" />
       <module name="Simple_Tic-Tac-Toe.Topics-Standard_output-Print_a_triangle.main" target="11" />
       <module name="Simple_Tic-Tac-Toe.Topics-Standard_output-Print_code.main" target="11" />
       <module name="Simple_Tic-Tac-Toe.Topics-Standard_output-Theory.main" target="11" />
