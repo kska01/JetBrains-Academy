@@ -31,14 +31,17 @@
       <module name="Simple_Tic-Tac-Toe.Topics-Standard_output-Print_code.main" target="11" />
       <module name="Simple_Tic-Tac-Toe.Topics-Standard_output-Theory.main" target="11" />
       <module name="Simple_Tic-Tac-Toe.Topics-Standard_output-We_need_to_learn_Kotlin.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Values_and_variables-An_incorrect_line.main" target="11" />
       <module name="Simple_Tic-Tac-Toe.Topics-Values_and_variables-Assignments.main" target="11" />
       <module name="Simple_Tic-Tac-Toe.Topics-Values_and_variables-Declarations.main" target="11" />
       <module name="Simple_Tic-Tac-Toe.Topics-Values_and_variables-Fix_declarations.main" target="11" />
       <module name="Simple_Tic-Tac-Toe.Topics-Values_and_variables-Statements.main" target="11" />
       <module name="Simple_Tic-Tac-Toe.Topics-Values_and_variables-Statements__1_.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Values_and_variables-Statements__2_.main" target="11" />
       <module name="Simple_Tic-Tac-Toe.Topics-Values_and_variables-Swap.main" target="11" />
       <module name="Simple_Tic-Tac-Toe.Topics-Values_and_variables-The_assignment_operator.main" target="11" />
       <module name="Simple_Tic-Tac-Toe.Topics-Values_and_variables-Theory.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Values_and_variables-val_or_var.main" target="11" />
       <module name="Simple_Tic-Tac-Toe.util.main" target="11" />
     </bytecodeTargetLevel>
   </component>

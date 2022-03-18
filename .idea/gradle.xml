@@ -41,14 +41,17 @@
             <option value="$PROJECT_DIR$/Topics/Standard output/Print code" />
             <option value="$PROJECT_DIR$/Topics/Standard output/Theory" />
             <option value="$PROJECT_DIR$/Topics/Standard output/We need to learn Kotlin" />
+            <option value="$PROJECT_DIR$/Topics/Values and variables/An incorrect line" />
             <option value="$PROJECT_DIR$/Topics/Values and variables/Assignments" />
             <option value="$PROJECT_DIR$/Topics/Values and variables/Declarations" />
             <option value="$PROJECT_DIR$/Topics/Values and variables/Fix declarations" />
             <option value="$PROJECT_DIR$/Topics/Values and variables/Statements" />
             <option value="$PROJECT_DIR$/Topics/Values and variables/Statements (1)" />
+            <option value="$PROJECT_DIR$/Topics/Values and variables/Statements (2)" />
             <option value="$PROJECT_DIR$/Topics/Values and variables/Swap" />
             <option value="$PROJECT_DIR$/Topics/Values and variables/The assignment operator" />
             <option value="$PROJECT_DIR$/Topics/Values and variables/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Values and variables/val or var" />
             <option value="$PROJECT_DIR$/util" />
           </set>
         </option>
