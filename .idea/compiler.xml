@@ -31,6 +31,11 @@
       <module name="Simple_Tic-Tac-Toe.Topics-Standard_output-Print_code.main" target="11" />
       <module name="Simple_Tic-Tac-Toe.Topics-Standard_output-Theory.main" target="11" />
       <module name="Simple_Tic-Tac-Toe.Topics-Standard_output-We_need_to_learn_Kotlin.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-String_basics-Addition_and_multiplication.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-String_basics-Appending_numbers_to_strings.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-String_basics-Correct_ways_to_create_a_string.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-String_basics-JSON.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-String_basics-Theory.main" target="11" />
       <module name="Simple_Tic-Tac-Toe.Topics-Values_and_variables-An_incorrect_line.main" target="11" />
       <module name="Simple_Tic-Tac-Toe.Topics-Values_and_variables-Assignments.main" target="11" />
       <module name="Simple_Tic-Tac-Toe.Topics-Values_and_variables-Declarations.main" target="11" />
