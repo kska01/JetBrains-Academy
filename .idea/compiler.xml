@@ -24,7 +24,12 @@
       <module name="Simple_Tic-Tac-Toe.Topics-Overview_of_the_basic_program-The_Hello_World_program.main" target="11" />
       <module name="Simple_Tic-Tac-Toe.Topics-Overview_of_the_basic_program-Theory.main" target="11" />
       <module name="Simple_Tic-Tac-Toe.Topics-Overview_of_the_basic_program-Your_name.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Standard_input-Four_numbers.main" target="11" />
       <module name="Simple_Tic-Tac-Toe.Topics-Standard_input-Read_and_print.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Standard_input-Successful_reading.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Standard_input-Successful_reading__1_.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Standard_input-Syntax_issues.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Standard_input-The_suitable_inputs.main" target="11" />
       <module name="Simple_Tic-Tac-Toe.Topics-Standard_input-Theory.main" target="11" />
       <module name="Simple_Tic-Tac-Toe.Topics-Standard_output-Correct_the_code.main" target="11" />
       <module name="Simple_Tic-Tac-Toe.Topics-Standard_output-First,_second,_third.main" target="11" />
