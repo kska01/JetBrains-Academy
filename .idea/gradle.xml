@@ -8,7 +8,7 @@
         <option name="testRunner" value="GRADLE" />
         <option name="distributionType" value="WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="gradleJvm" value="#JAVA_INTERNAL" />
+        <option name="gradleJvm" value="16" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
@@ -57,6 +57,7 @@
             <option value="$PROJECT_DIR$/Topics/Values and variables/Assignments" />
             <option value="$PROJECT_DIR$/Topics/Values and variables/Declarations" />
             <option value="$PROJECT_DIR$/Topics/Values and variables/Fix declarations" />
+            <option value="$PROJECT_DIR$/Topics/Values and variables/Fix the program" />
             <option value="$PROJECT_DIR$/Topics/Values and variables/Statements" />
             <option value="$PROJECT_DIR$/Topics/Values and variables/Statements (1)" />
             <option value="$PROJECT_DIR$/Topics/Values and variables/Statements (2)" />
