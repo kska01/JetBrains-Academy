@@ -4,7 +4,7 @@ const val FIVE = 5
 
 fun main() {
     val scanner = Scanner(System.`in`)
-    for (i in 1..FIVE) {
+    while (scanner.hasNext()) {
         println(scanner.next())
     }
 }
