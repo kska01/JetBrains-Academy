@@ -1,11 +1,11 @@
 type: choice
 is_multiple_choice: false
 options:
-- text: main
+- text: println
+- text: fun
 - text: '"Hello, World!"'
 - text: ()
-- text: fun
-- text: println
+- text: main
 message_correct: Congratulations!
 message_incorrect: Incorrect solution
 files:

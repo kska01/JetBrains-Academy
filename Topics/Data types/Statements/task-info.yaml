@@ -1,13 +1,13 @@
 type: choice
 is_multiple_choice: true
 options:
-- text: Kotlin can figure out the type of a variable automatically based on the assigning
-    value.
 - text: It is possible to assign a value to a variable of another type (e.g. "abc"
     to an <b>Int</b> variable)
+- text: It is impossible to change the type of a variable.
 - text: If you do not specify a type for a variable, then it does not have a type
     at all.
-- text: It is impossible to change the type of a variable.
+- text: Kotlin can figure out the type of a variable automatically based on the assigning
+    value.
 message_correct: Congratulations!
 message_incorrect: Incorrect solution
 files:

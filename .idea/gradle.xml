@@ -63,7 +63,10 @@
             <option value="$PROJECT_DIR$/Topics/String basics/Correct ways to create a string" />
             <option value="$PROJECT_DIR$/Topics/String basics/JSON" />
             <option value="$PROJECT_DIR$/Topics/String basics/Theory" />
+            <option value="$PROJECT_DIR$/Topics/String templates/Print two numbers on the same line" />
+            <option value="$PROJECT_DIR$/Topics/String templates/Theory" />
             <option value="$PROJECT_DIR$/Topics/Values and variables/An incorrect line" />
+            <option value="$PROJECT_DIR$/Topics/Values and variables/An incorrect line (1)" />
             <option value="$PROJECT_DIR$/Topics/Values and variables/Assignments" />
             <option value="$PROJECT_DIR$/Topics/Values and variables/Declarations" />
             <option value="$PROJECT_DIR$/Topics/Values and variables/Fix declarations" />
@@ -74,6 +77,8 @@
             <option value="$PROJECT_DIR$/Topics/Values and variables/Swap" />
             <option value="$PROJECT_DIR$/Topics/Values and variables/The assignment operator" />
             <option value="$PROJECT_DIR$/Topics/Values and variables/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Values and variables/Very Big Number" />
+            <option value="$PROJECT_DIR$/Topics/Values and variables/What is the value of a variable" />
             <option value="$PROJECT_DIR$/Topics/Values and variables/val or var" />
             <option value="$PROJECT_DIR$/util" />
           </set>

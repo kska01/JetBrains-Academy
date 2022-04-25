@@ -1,13 +1,13 @@
 type: choice
 is_multiple_choice: true
 options:
+- text: Every variable has a name.
+- text: It is impossible to change the value of a variable declared with the keyword
+    <b>var</b>.
 - text: It is impossible to access the value of a variable declared with the keyword
     <b>val</b>.
 - text: In many cases, it is better to use immutable variables instead of mutable
     ones.
-- text: Every variable has a name.
-- text: It is impossible to change the value of a variable declared with the keyword
-    <b>var</b>.
 message_correct: Congratulations!
 message_incorrect: Incorrect solution
 files:

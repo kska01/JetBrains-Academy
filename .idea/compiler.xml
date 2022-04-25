@@ -53,7 +53,10 @@
       <module name="Simple_Tic-Tac-Toe.Topics-String_basics-Correct_ways_to_create_a_string.main" target="11" />
       <module name="Simple_Tic-Tac-Toe.Topics-String_basics-JSON.main" target="11" />
       <module name="Simple_Tic-Tac-Toe.Topics-String_basics-Theory.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-String_templates-Print_two_numbers_on_the_same_line.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-String_templates-Theory.main" target="11" />
       <module name="Simple_Tic-Tac-Toe.Topics-Values_and_variables-An_incorrect_line.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Values_and_variables-An_incorrect_line__1_.main" target="11" />
       <module name="Simple_Tic-Tac-Toe.Topics-Values_and_variables-Assignments.main" target="11" />
       <module name="Simple_Tic-Tac-Toe.Topics-Values_and_variables-Declarations.main" target="11" />
       <module name="Simple_Tic-Tac-Toe.Topics-Values_and_variables-Fix_declarations.main" target="11" />
@@ -65,6 +68,8 @@
       <module name="Simple_Tic-Tac-Toe.Topics-Values_and_variables-The_assignment_operator.main" target="11" />
       <module name="Simple_Tic-Tac-Toe.Topics-Values_and_variables-Theory.main" target="11" />
       <module name="Simple_Tic-Tac-Toe.Topics-Values_and_variables-val_or_var.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Values_and_variables-Very_Big_Number.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Values_and_variables-What_is_the_value_of_a_variable.main" target="11" />
       <module name="Simple_Tic-Tac-Toe.util.main" target="11" />
     </bytecodeTargetLevel>
   </component>
