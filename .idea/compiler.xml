@@ -54,6 +54,7 @@
       <module name="Simple_Tic-Tac-Toe.Topics-String_basics-JSON.main" target="11" />
       <module name="Simple_Tic-Tac-Toe.Topics-String_basics-Theory.main" target="11" />
       <module name="Simple_Tic-Tac-Toe.Topics-String_templates-Arithmetic_expression.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-String_templates-Date_and_time_formatting.main" target="11" />
       <module name="Simple_Tic-Tac-Toe.Topics-String_templates-Print_two_numbers_on_the_same_line.main" target="11" />
       <module name="Simple_Tic-Tac-Toe.Topics-String_templates-Repetitions_and_templates.main" target="11" />
       <module name="Simple_Tic-Tac-Toe.Topics-String_templates-Theory.main" target="11" />
