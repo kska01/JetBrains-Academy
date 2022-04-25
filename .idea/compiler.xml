@@ -53,6 +53,7 @@
       <module name="Simple_Tic-Tac-Toe.Topics-String_basics-Correct_ways_to_create_a_string.main" target="11" />
       <module name="Simple_Tic-Tac-Toe.Topics-String_basics-JSON.main" target="11" />
       <module name="Simple_Tic-Tac-Toe.Topics-String_basics-Theory.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-String_templates-Arithmetic_expression.main" target="11" />
       <module name="Simple_Tic-Tac-Toe.Topics-String_templates-Print_two_numbers_on_the_same_line.main" target="11" />
       <module name="Simple_Tic-Tac-Toe.Topics-String_templates-Theory.main" target="11" />
       <module name="Simple_Tic-Tac-Toe.Topics-Values_and_variables-An_incorrect_line.main" target="11" />
