@@ -8,8 +8,6 @@ options:
     <b>val</b>.
 - text: In many cases, it is better to use immutable variables instead of mutable
     ones.
-message_correct: Congratulations!
-message_incorrect: Incorrect solution
 files:
 - name: src/Main.kt
   visible: true

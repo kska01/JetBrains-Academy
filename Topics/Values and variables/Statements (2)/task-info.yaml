@@ -6,8 +6,6 @@ options:
 - text: The value of a variable declared with the keyword <b>var</b> can be changed
     only once
 - text: The name of a variable can be changed
-message_correct: Congratulations!
-message_incorrect: Incorrect solution
 files:
 - name: src/Main.kt
   visible: true

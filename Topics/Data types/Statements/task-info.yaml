@@ -8,8 +8,6 @@ options:
     at all.
 - text: Kotlin can figure out the type of a variable automatically based on the assigning
     value.
-message_correct: Congratulations!
-message_incorrect: Incorrect solution
 files:
 - name: src/Main.kt
   visible: true

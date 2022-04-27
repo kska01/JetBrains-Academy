@@ -7,8 +7,6 @@ options:
 - text: Line 7
 - text: Line 9
 - text: Everything looks fine no syntax errors
-message_correct: Congratulations!
-message_incorrect: Incorrect solution
 files:
 - name: src/Main.kt
   visible: true

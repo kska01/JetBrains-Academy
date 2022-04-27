@@ -9,8 +9,6 @@ options:
 - text: main
 - text: Program
 - text: program
-message_correct: Congratulations!
-message_incorrect: Incorrect solution
 files:
 - name: src/Main.kt
   visible: true

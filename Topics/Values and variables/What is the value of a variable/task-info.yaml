@@ -8,8 +8,6 @@ options:
 - text: <code>animal</code>
 - text: <code>"hedgehog"</code>
 - text: <code>val animal</code>
-message_correct: Congratulations!
-message_incorrect: Incorrect solution
 files:
 - name: src/Main.kt
   visible: true

@@ -7,8 +7,6 @@ options:
 - text: 'val age: String = "42"'
 - text: 'val age: Int = 42'
 - text: Int age = 42
-message_correct: Congratulations!
-message_incorrect: Incorrect solution
 files:
 - name: src/Main.kt
   visible: true
