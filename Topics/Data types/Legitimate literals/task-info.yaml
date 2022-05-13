@@ -1,13 +1,13 @@
 type: choice
 is_multiple_choice: true
 options:
-- text: 10.0
-- text: –6875309
-- text: 1.5
-- text: 2.3
 - text: '''7'''
-- text: 42
 - text: -1
+- text: 1.5
+- text: -6875309
+- text: 10.0
+- text: 2.3
+- text: 42
 - text: '"-12"'
 files:
 - name: src/Main.kt

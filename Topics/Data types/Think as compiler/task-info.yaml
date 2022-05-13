@@ -1,11 +1,11 @@
 type: choice
 is_multiple_choice: false
 options:
-- text: error on line 1
 - text: -1 Kotlin
+- text: error on line 1
+- text: 0 Kotlin
 - text: undefined Kotlin
 - text: error on line 3
-- text: 0 Kotlin
 files:
 - name: src/Main.kt
   visible: true

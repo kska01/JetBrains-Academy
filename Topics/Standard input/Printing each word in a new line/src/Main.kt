@@ -1,4 +1,4 @@
-import java.util.Scanner
+import java.util.*
 
 const val FIVE = 5
 
