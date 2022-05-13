@@ -5,7 +5,5 @@ fun main() {
         val strings = readLine()!!.split(' ').toMutableList()
         inputList.add(strings)
     }
-    // Do not change lines above
-    // Write your code here
-
+    println(inputList[2].joinToString())
 }
