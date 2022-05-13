@@ -1,4 +1,4 @@
-// you do not need to understand how it works, ignore it
+// you don not need to understand how it works, ignore it
 class Pirate(name: String) {
     var name: String = name
         private set    
