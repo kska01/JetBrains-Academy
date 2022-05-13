@@ -9,5 +9,17 @@ content:
 - The classification of basic types
 - Type conversion
 - Reading data with a readln
+- Boolean and logical operations
+- Integers in action
+- Relational operators
+- If expression
+- Repeating blocks
+- Equality
+- Characters
+- Ranges
+- For loop and ranges
+- Introduction to MutableList
+- Work with MutableLists
+- For loop and lists
+- Working with strings
 - Multi-dimensional list
-- For loop and ranges (1)
