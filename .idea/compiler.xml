@@ -4,6 +4,9 @@
     <bytecodeTargetLevel target="17">
       <module name="For-loop definitions.JetBrains-Academy.Topics-For_loop_and_ranges-For-loop_definitions.main" target="11" />
       <module name="JetBrains-Academy.Simple_Tic-Tac-Toe-task-build-classes-java.main" target="11" />
+      <module name="JetBrains-Academy.Simple_Tic-Tac-Toe-task-build-classes-kotlin.main" target="11" />
+      <module name="JetBrains-Academy.Simple_Tic-Tac-Toe-task-build-generated-sources-annotationProcessor-java.main" target="11" />
+      <module name="JetBrains-Academy.Simple_Tic-Tac-Toe-task-build-generated-sources-headers-java.main" target="11" />
       <module name="JetBrains-Academy.Simple_Tic-Tac-Toe-task-build-reports-tests.main" target="11" />
       <module name="JetBrains-Academy.Simple_Tic-Tac-Toe-task-build-test-results.main" target="11" />
       <module name="JetBrains-Academy.Simple_Tic-Tac-Toe-task-build-tmp.main" target="11" />
@@ -35,12 +38,16 @@
       <module name="JetBrains-Academy.Topics-Data_types-Think_as_a_compiler.main" target="11" />
       <module name="JetBrains-Academy.Topics-Data_types-Think_as_compiler.main" target="11" />
       <module name="JetBrains-Academy.Topics-Equality-How_to_compare.main" target="11" />
+      <module name="JetBrains-Academy.Topics-Equality-How_to_compare__1_.main" target="11" />
+      <module name="JetBrains-Academy.Topics-Equality-Kings_of_Sweden.main" target="11" />
       <module name="JetBrains-Academy.Topics-Equality-The_same_object.main" target="11" />
       <module name="JetBrains-Academy.Topics-Equality-The_same_object__1_.main" target="11" />
+      <module name="JetBrains-Academy.Topics-Equality-The_same_object__2_.main" target="11" />
       <module name="JetBrains-Academy.Topics-Equality-Theory.main" target="11" />
       <module name="JetBrains-Academy.Topics-Equality-True_captain.main" target="11" />
       <module name="JetBrains-Academy.Topics-For_loop_and_lists-For_loops_task.main" target="11" />
       <module name="JetBrains-Academy.Topics-For_loop_and_lists-List_indexes.main" target="11" />
+      <module name="JetBrains-Academy.Topics-For_loop_and_lists-Number_in_a_set.main" target="11" />
       <module name="JetBrains-Academy.Topics-For_loop_and_lists-Print_all_elements.main" target="11" />
       <module name="JetBrains-Academy.Topics-For_loop_and_lists-Sum_of_numbers.main" target="11" />
       <module name="JetBrains-Academy.Topics-For_loop_and_lists-The_index_of_the_first_max.main" target="11" />
@@ -74,11 +81,13 @@
       <module name="JetBrains-Academy.Topics-Integers_in_action-The_first_digit_of_a_two-digit_number.main" target="11" />
       <module name="JetBrains-Academy.Topics-Integers_in_action-The_sum_of_digits.main" target="11" />
       <module name="JetBrains-Academy.Topics-Integers_in_action-Theory.main" target="11" />
+      <module name="JetBrains-Academy.Topics-Integers_in_action-Time_format.main" target="11" />
       <module name="JetBrains-Academy.Topics-Integers_in_action-Underscore.main" target="11" />
       <module name="JetBrains-Academy.Topics-Introduction_to_MutableList-Initializing_a_list.main" target="11" />
       <module name="JetBrains-Academy.Topics-Introduction_to_MutableList-Printing_the_last_element.main" target="11" />
       <module name="JetBrains-Academy.Topics-Introduction_to_MutableList-Swap.main" target="11" />
       <module name="JetBrains-Academy.Topics-Introduction_to_MutableList-Theory.main" target="11" />
+      <module name="JetBrains-Academy.Topics-Multi-dimensional_list-Accordance.main" target="11" />
       <module name="JetBrains-Academy.Topics-Multi-dimensional_list-Corners.main" target="11" />
       <module name="JetBrains-Academy.Topics-Multi-dimensional_list-Correct_statements.main" target="11" />
       <module name="JetBrains-Academy.Topics-Multi-dimensional_list-Indexing_rules.main" target="11" />
