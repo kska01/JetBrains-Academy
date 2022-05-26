@@ -1,3 +1,3 @@
-val pirateJackSparrow = Sailor("None")
-val captainJackSparrow = Sailor("None") 
-// put your code here
+    val pirateJackSparrow = Sailor("None")
+    val captainJackSparrow = Sailor("None")
+    println(pirateJackSparrow === captainJackSparrow)
