@@ -8,9 +8,8 @@ fun main() {
             print("$num ")
             subNum++
             count++
-            if (count == input) break
+            if (count == input) return
         }
         num++
-        if (count == input) break
     }
 }
