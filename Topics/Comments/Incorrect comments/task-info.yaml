@@ -1,0 +1,17 @@
+type: code
+files:
+- name: src/Main.kt
+  visible: true
+  text: |-
+    fun main() {
+        /*
+        // println("Yet another simple Kotlin application")
+        println("Do not print this line")
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/4411#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Tue, 28 Jun 2022 09:02:07 UTC
+record: -1
