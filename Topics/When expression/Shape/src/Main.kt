@@ -1,4 +1,4 @@
-fun main(args: Array<String>) {
+fun main() {
     println(
         when (readln()) {
             "1" -> "You have chosen a square"

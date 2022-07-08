@@ -33,6 +33,7 @@
               </args>
             </stringArg>
             <stringArg name="destination" arg="$MODULE_DIR$/../../../../../Topics/For loop and lists/The index of the first max/build/classes/kotlin/test" />
+            <stringArg name="jvmTarget" arg="1.8" />
             <stringArg name="moduleName" arg="Topics-For_loop_and_lists-The_index_of_the_first_max" />
             <stringArg name="apiVersion" arg="1.6" />
             <stringArg name="languageVersion" arg="1.6" />

@@ -3,14 +3,14 @@
  <head></head>
  <body>
   <p>As you know, Kotlin has a lot of data types such as <code class="language-kotlin">String</code>, <code class="language-kotlin">Int</code>, and <code class="language-kotlin">Double</code>. In this topic, we will focus on the <code class="language-kotlin">String</code> type. This is a very useful type as even a simple "Hello world!" program uses strings. A string is a sequence of zero or more characters enclosed by double quotes e.g. "John", "". You will surely use strings on a regular basis in your future projects. In this topic, we will look at some important basics of working with strings.</p> 
-  <h5 style="text-align: center;" id="the-length-of-a-string">The length of a string</h5> 
+  <h5 id="the-length-of-a-string" style="text-align: center;">The length of a string</h5> 
   <p>You will often need to get the length of a <code class="language-kotlin">String</code>. The length of the string is determined by the number of characters that are enclosed between the double quotes. To do this, simply use <code class="language-kotlin">.length</code> which gives a value of the <code class="language-kotlin">Int</code> type:</p> 
   <pre><code class="language-kotlin">val language = "Kotlin"
 println(language.length) // 6
 
 val empty = ""
 println(empty.length) // 0</code></pre> 
-  <h5 style="text-align: center;" id="concatenating-strings">Concatenating strings</h5> 
+  <h5 id="concatenating-strings" style="text-align: center;">Concatenating strings</h5> 
   <p>Another common operation with <code class="language-kotlin">String</code> is <strong>concatenation</strong>. It is used to construct one string out of other strings.</p> 
   <p>Two strings can be concatenated with the <code class="language-kotlin">+</code>:</p> 
   <pre><code class="language-kotlin">val str1 = "ab"
@@ -36,7 +36,7 @@ val fullName = firstName + " " + lastName</code></pre>
    <span style="background-color: transparent; color: #000000; font-size: 11pt; font-variant: normal;"></span>
   </div>
   <p></p> 
-  <h5 style="text-align: center;" id="appending-values-to-strings">Appending values to strings</h5> 
+  <h5 id="appending-values-to-strings" style="text-align: center;">Appending values to strings</h5> 
   <p>The <code class="language-kotlin">+</code> also works for appending values of different types to a <code class="language-kotlin">String</code>. The value is automatically converted to a <code class="language-kotlin">String</code> and then concatenated to the target <code class="language-kotlin">String</code>:</p> 
   <pre><code class="language-kotlin">val stringPlusBoolean = "abc" + 10 + true
 println(stringPlusBoolean) // abc10true
@@ -65,7 +65,7 @@ println(stringPlusChar) // def</code></pre>
   <pre><code class="language-kotlin">val charPlusStringPlusInt = 'a' + "bc" + 123
 println(charPlusStringPlusInt) // abc123</code></pre> 
   <p>We will discuss how to work with characters later, but for now, just remember that you can concatenate characters and strings to get a <code class="language-kotlin">String</code> value. If you are interested in how characters operate with integers, look at this <a target="_blank" href="https://hyperskill.org/learn/step/4680" rel="noopener noreferrer nofollow">topic</a>.</p> 
-  <h5 style="text-align: center;" id="repeating-the-string">Repeating the string</h5> 
+  <h5 id="repeating-the-string" style="text-align: center;">Repeating the string</h5> 
   <p>If you need to repeat one string two or more times, then hold your loops: Kotlin provides the <code class="language-kotlin">repeat</code> function:</p> 
   <pre><code class="language-kotlin">print("Hello".repeat(4)) // HelloHelloHelloHello</code></pre> 
   <p>Now, imagine your friend senior developer gave you a secret on how to become the best programmer:</p> 
@@ -82,7 +82,7 @@ Eat. Sleep. Code.
 Eat. Sleep. Code.
 Eat. Sleep. Code.</code></pre> 
   <p>No time for procrastination!</p> 
-  <h5 style="text-align: center;" id="raw-string"> Raw string</h5> 
+  <h5 id="raw-string" style="text-align: center;"> Raw string</h5> 
   <p>Sometimes you need some special symbols like tabs or quote marks in your string. You can do it with the help of <strong>escape sequences</strong>. For example:</p> 
   <pre><code class="language-kotlin">// prints 'H' is the first letter of "Hello world!" string.
 println("\'H\' is the first letter of \"Hello world!\" string.")</code></pre> 
@@ -133,7 +133,7 @@ print(rawString )</code></pre>
 123
          456
           789</code></pre> 
-  <h5 style="text-align: center;" id="conclusion">Conclusion</h5> 
+  <h5 id="conclusion" style="text-align: center;">Conclusion</h5> 
   <p>Now you know the most basic <code class="language-kotlin">String</code> operations! These functions are pretty simple but absolutely crucial in programming. There are actually many other useful <code class="language-kotlin">String</code> operations, but you will learn about them a little later. Good luck with your tasks!</p>
  </body>
 </html>

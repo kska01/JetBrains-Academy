@@ -3,6 +3,7 @@
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel target="17">
       <module name="For-loop definitions.JetBrains-Academy.Topics-For_loop_and_ranges-For-loop_definitions.main" target="11" />
+      <module name="How to compare (1).JetBrains-Academy.Topics-Equality-How_to_compare__1_.main" target="11" />
       <module name="JetBrains-Academy.Simple_Tic-Tac-Toe-task-build-classes-java.main" target="11" />
       <module name="JetBrains-Academy.Simple_Tic-Tac-Toe-task-build-classes-kotlin.main" target="11" />
       <module name="JetBrains-Academy.Simple_Tic-Tac-Toe-task-build-generated-sources-annotationProcessor-java.main" target="11" />
@@ -23,7 +24,19 @@
       <module name="JetBrains-Academy.Topics-Characters-Compare_Latin_letters.main" target="11" />
       <module name="JetBrains-Academy.Topics-Characters-Comparing_numbers_and_characters.main" target="11" />
       <module name="JetBrains-Academy.Topics-Characters-Digits_or_not.main" target="11" />
+      <module name="JetBrains-Academy.Topics-Characters-Sequence.main" target="11" />
       <module name="JetBrains-Academy.Topics-Characters-Theory.main" target="11" />
+      <module name="JetBrains-Academy.Topics-Comments-Comment_some_lines.main" target="11" />
+      <module name="JetBrains-Academy.Topics-Comments-Comment_syntax.main" target="11" />
+      <module name="JetBrains-Academy.Topics-Comments-Find_the_correct_comment.main" target="11" />
+      <module name="JetBrains-Academy.Topics-Comments-Forms_of_comments.main" target="11" />
+      <module name="JetBrains-Academy.Topics-Comments-Hello,_Kotlin.main" target="11" />
+      <module name="JetBrains-Academy.Topics-Comments-Incorrect_comments.main" target="11" />
+      <module name="JetBrains-Academy.Topics-Comments-Printing_only_the_longest_line.main" target="11" />
+      <module name="JetBrains-Academy.Topics-Comments-The_countdown.main" target="11" />
+      <module name="JetBrains-Academy.Topics-Comments-Theory.main" target="11" />
+      <module name="JetBrains-Academy.Topics-Comments-Uncomment_a_line.main" target="11" />
+      <module name="JetBrains-Academy.Topics-Comments-Unused_comments.main" target="11" />
       <module name="JetBrains-Academy.Topics-Data_types-Edit_it.main" target="11" />
       <module name="JetBrains-Academy.Topics-Data_types-Find_equivalent.main" target="11" />
       <module name="JetBrains-Academy.Topics-Data_types-Fix_the_program.main" target="11" />
@@ -37,23 +50,40 @@
       <module name="JetBrains-Academy.Topics-Data_types-Theory.main" target="11" />
       <module name="JetBrains-Academy.Topics-Data_types-Think_as_a_compiler.main" target="11" />
       <module name="JetBrains-Academy.Topics-Data_types-Think_as_compiler.main" target="11" />
+      <module name="JetBrains-Academy.Topics-Declaring_functions-Comparing_sums.main" target="11" />
+      <module name="JetBrains-Academy.Topics-Declaring_functions-Division.main" target="11" />
+      <module name="JetBrains-Academy.Topics-Declaring_functions-Get_last_digit.main" target="11" />
+      <module name="JetBrains-Academy.Topics-Declaring_functions-Parameters.main" target="11" />
+      <module name="JetBrains-Academy.Topics-Declaring_functions-Right_equation.main" target="11" />
+      <module name="JetBrains-Academy.Topics-Declaring_functions-The_sum_of_three_numbers.main" target="11" />
+      <module name="JetBrains-Academy.Topics-Declaring_functions-Theory.main" target="11" />
+      <module name="JetBrains-Academy.Topics-Declaring_functions-Vowel_or_not.main" target="11" />
+      <module name="JetBrains-Academy.Topics-Declaring_functions-What_should_be_specified.main" target="11" />
       <module name="JetBrains-Academy.Topics-Equality-How_to_compare.main" target="11" />
       <module name="JetBrains-Academy.Topics-Equality-How_to_compare__1_.main" target="11" />
       <module name="JetBrains-Academy.Topics-Equality-Kings_of_Sweden.main" target="11" />
+      <module name="JetBrains-Academy.Topics-Equality-Referential_equality.main" target="11" />
       <module name="JetBrains-Academy.Topics-Equality-The_same_object.main" target="11" />
       <module name="JetBrains-Academy.Topics-Equality-The_same_object__1_.main" target="11" />
       <module name="JetBrains-Academy.Topics-Equality-The_same_object__2_.main" target="11" />
       <module name="JetBrains-Academy.Topics-Equality-Theory.main" target="11" />
       <module name="JetBrains-Academy.Topics-Equality-True_captain.main" target="11" />
       <module name="JetBrains-Academy.Topics-For_loop_and_lists-For_loops_task.main" target="11" />
+      <module name="JetBrains-Academy.Topics-For_loop_and_lists-Individual_taxes.main" target="11" />
       <module name="JetBrains-Academy.Topics-For_loop_and_lists-List_indexes.main" target="11" />
       <module name="JetBrains-Academy.Topics-For_loop_and_lists-Number_in_a_set.main" target="11" />
       <module name="JetBrains-Academy.Topics-For_loop_and_lists-Print_all_elements.main" target="11" />
+      <module name="JetBrains-Academy.Topics-For_loop_and_lists-Right_Rotation.main" target="11" />
       <module name="JetBrains-Academy.Topics-For_loop_and_lists-Sum_of_numbers.main" target="11" />
       <module name="JetBrains-Academy.Topics-For_loop_and_lists-The_index_of_the_first_max.main" target="11" />
       <module name="JetBrains-Academy.Topics-For_loop_and_lists-Theory.main" target="11" />
+      <module name="JetBrains-Academy.Topics-For_loop_and_lists-Triples.main" target="11" />
+      <module name="JetBrains-Academy.Topics-For_loop_and_lists-Two_numbers_in_a_row.main" target="11" />
+      <module name="JetBrains-Academy.Topics-For_loop_and_ranges-Count_the_numbers.main" target="11" />
+      <module name="JetBrains-Academy.Topics-For_loop_and_ranges-Define_a_for-loop.main" target="11" />
       <module name="JetBrains-Academy.Topics-For_loop_and_ranges-Fizz_Buzz.main" target="11" />
       <module name="JetBrains-Academy.Topics-For_loop_and_ranges-For-loop_definitions.main" target="11" />
+      <module name="JetBrains-Academy.Topics-For_loop_and_ranges-The_maximum_pairwise_product.main" target="11" />
       <module name="JetBrains-Academy.Topics-For_loop_and_ranges-The_product_of_numbers_from_a_to_b.main" target="11" />
       <module name="JetBrains-Academy.Topics-For_loop_and_ranges-The_roots_of_equation.main" target="11" />
       <module name="JetBrains-Academy.Topics-For_loop_and_ranges-The_sum_of_integers_from_a_to_b.main" target="11" />
@@ -66,9 +96,17 @@
       <module name="JetBrains-Academy.Topics-For_loop_and_ranges__1_-The_sum_of_integers_from_a_to_b.main" target="11" />
       <module name="JetBrains-Academy.Topics-For_loop_and_ranges__1_-The_sum_of_N_numbers.main" target="11" />
       <module name="JetBrains-Academy.Topics-For_loop_and_ranges__1_-Theory.main" target="11" />
+      <module name="JetBrains-Academy.Topics-Getting_substrings-Case_insensitive.main" target="11" />
+      <module name="JetBrains-Academy.Topics-Getting_substrings-Crash_your_app.main" target="11" />
+      <module name="JetBrains-Academy.Topics-Getting_substrings-Exchange.main" target="11" />
+      <module name="JetBrains-Academy.Topics-Getting_substrings-Get_the_world.main" target="11" />
+      <module name="JetBrains-Academy.Topics-Getting_substrings-Theory.main" target="11" />
+      <module name="JetBrains-Academy.Topics-Getting_substrings-Void.main" target="11" />
       <module name="JetBrains-Academy.Topics-If_expression-Healthy_sleep.main" target="11" />
       <module name="JetBrains-Academy.Topics-If_expression-Interval.main" target="11" />
       <module name="JetBrains-Academy.Topics-If_expression-Knights.main" target="11" />
+      <module name="JetBrains-Academy.Topics-If_expression-Leap_year.main" target="11" />
+      <module name="JetBrains-Academy.Topics-If_expression-Odd_or_even.main" target="11" />
       <module name="JetBrains-Academy.Topics-If_expression-Positive,_Negative_or_Zero.main" target="11" />
       <module name="JetBrains-Academy.Topics-If_expression-Queens.main" target="11" />
       <module name="JetBrains-Academy.Topics-If_expression-Statements_about_brackets_in_if.main" target="11" />
@@ -78,22 +116,37 @@
       <module name="JetBrains-Academy.Topics-Integers_in_action-Declaring_Long.main" target="11" />
       <module name="JetBrains-Academy.Topics-Integers_in_action-Desks.main" target="11" />
       <module name="JetBrains-Academy.Topics-Integers_in_action-How_many_nuts_will_be_left_after_division.main" target="11" />
+      <module name="JetBrains-Academy.Topics-Integers_in_action-Next_even_number.main" target="11" />
       <module name="JetBrains-Academy.Topics-Integers_in_action-The_first_digit_of_a_two-digit_number.main" target="11" />
+      <module name="JetBrains-Academy.Topics-Integers_in_action-The_number_of_tens.main" target="11" />
       <module name="JetBrains-Academy.Topics-Integers_in_action-The_sum_of_digits.main" target="11" />
       <module name="JetBrains-Academy.Topics-Integers_in_action-Theory.main" target="11" />
       <module name="JetBrains-Academy.Topics-Integers_in_action-Time_format.main" target="11" />
       <module name="JetBrains-Academy.Topics-Integers_in_action-Underscore.main" target="11" />
+      <module name="JetBrains-Academy.Topics-Integers_in_action-Underscore__1_.main" target="11" />
       <module name="JetBrains-Academy.Topics-Introduction_to_MutableList-Initializing_a_list.main" target="11" />
+      <module name="JetBrains-Academy.Topics-Introduction_to_MutableList-Initializing_a_mutable_list_of_characters.main" target="11" />
       <module name="JetBrains-Academy.Topics-Introduction_to_MutableList-Printing_the_last_element.main" target="11" />
       <module name="JetBrains-Academy.Topics-Introduction_to_MutableList-Swap.main" target="11" />
       <module name="JetBrains-Academy.Topics-Introduction_to_MutableList-Theory.main" target="11" />
+      <module name="JetBrains-Academy.Topics-Invoking_functions-Arguments.main" target="11" />
+      <module name="JetBrains-Academy.Topics-Invoking_functions-How_to_invoke_a_function.main" target="11" />
+      <module name="JetBrains-Academy.Topics-Invoking_functions-Lembas.main" target="11" />
+      <module name="JetBrains-Academy.Topics-Invoking_functions-Returning_a_result.main" target="11" />
+      <module name="JetBrains-Academy.Topics-Invoking_functions-The_magic_of_println.main" target="11" />
+      <module name="JetBrains-Academy.Topics-Invoking_functions-Theory.main" target="11" />
+      <module name="JetBrains-Academy.Topics-Jumps_and_returns-Beyond_the_word.main" target="11" />
+      <module name="JetBrains-Academy.Topics-Jumps_and_returns-Getting_letters_from_the_Alphabet.main" target="11" />
+      <module name="JetBrains-Academy.Topics-Jumps_and_returns-Theory.main" target="11" />
       <module name="JetBrains-Academy.Topics-Multi-dimensional_list-Accordance.main" target="11" />
       <module name="JetBrains-Academy.Topics-Multi-dimensional_list-Corners.main" target="11" />
       <module name="JetBrains-Academy.Topics-Multi-dimensional_list-Correct_statements.main" target="11" />
+      <module name="JetBrains-Academy.Topics-Multi-dimensional_list-Cube_of_zeros.main" target="11" />
       <module name="JetBrains-Academy.Topics-Multi-dimensional_list-Indexing_rules.main" target="11" />
       <module name="JetBrains-Academy.Topics-Multi-dimensional_list-Initialization_rules.main" target="11" />
       <module name="JetBrains-Academy.Topics-Multi-dimensional_list-Kotlin_lists.main" target="11" />
       <module name="JetBrains-Academy.Topics-Multi-dimensional_list-Practical_applications.main" target="11" />
+      <module name="JetBrains-Academy.Topics-Multi-dimensional_list-Shapeshifter.main" target="11" />
       <module name="JetBrains-Academy.Topics-Multi-dimensional_list-Theory.main" target="11" />
       <module name="JetBrains-Academy.Topics-Overview_of_the_basic_program-Find_a_keyword.main" target="11" />
       <module name="JetBrains-Academy.Topics-Overview_of_the_basic_program-I_like_Kotlin.main" target="11" />
@@ -103,21 +156,41 @@
       <module name="JetBrains-Academy.Topics-Overview_of_the_basic_program-The_Hello_World_program.main" target="11" />
       <module name="JetBrains-Academy.Topics-Overview_of_the_basic_program-Theory.main" target="11" />
       <module name="JetBrains-Academy.Topics-Overview_of_the_basic_program-Your_name.main" target="11" />
+      <module name="JetBrains-Academy.Topics-Processing_strings-Create_an_euphonious_word.main" target="11" />
+      <module name="JetBrains-Academy.Topics-Processing_strings-Move_the_first_N_characters.main" target="11" />
+      <module name="JetBrains-Academy.Topics-Processing_strings-Number_of_occurrences.main" target="11" />
+      <module name="JetBrains-Academy.Topics-Processing_strings-Parse_url.main" target="11" />
+      <module name="JetBrains-Academy.Topics-Processing_strings-Piece_of_alphabet.main" target="11" />
+      <module name="JetBrains-Academy.Topics-Processing_strings-The_longest_word.main" target="11" />
+      <module name="JetBrains-Academy.Topics-Processing_strings-The_lucky_ticket.main" target="11" />
+      <module name="JetBrains-Academy.Topics-Processing_strings-Theory.main" target="11" />
       <module name="JetBrains-Academy.Topics-Ranges-Between_two_numbers.main" target="11" />
       <module name="JetBrains-Academy.Topics-Ranges-Check_the_value.main" target="11" />
+      <module name="JetBrains-Academy.Topics-Ranges-How_to_create_a_range.main" target="11" />
+      <module name="JetBrains-Academy.Topics-Ranges-Job.main" target="11" />
+      <module name="JetBrains-Academy.Topics-Ranges-Not_in_range.main" target="11" />
       <module name="JetBrains-Academy.Topics-Ranges-Theory.main" target="11" />
       <module name="JetBrains-Academy.Topics-Ranges-Within_a_range.main" target="11" />
       <module name="JetBrains-Academy.Topics-Ranges-Within_both_ranges.main" target="11" />
+      <module name="JetBrains-Academy.Topics-Reading_data_with_a_readln-Check_the_input.main" target="11" />
       <module name="JetBrains-Academy.Topics-Reading_data_with_a_readln-Fix_the_input.main" target="11" />
       <module name="JetBrains-Academy.Topics-Reading_data_with_a_readln-How_to_learn_the_whole_Kotlin_per_one_task.main" target="11" />
+      <module name="JetBrains-Academy.Topics-Reading_data_with_a_readln-Read_a_Double.main" target="11" />
+      <module name="JetBrains-Academy.Topics-Reading_data_with_a_readln-Reading_data.main" target="11" />
       <module name="JetBrains-Academy.Topics-Reading_data_with_a_readln-Reversed_output.main" target="11" />
+      <module name="JetBrains-Academy.Topics-Reading_data_with_a_readln-Reversed_output__1_.main" target="11" />
       <module name="JetBrains-Academy.Topics-Reading_data_with_a_readln-Theory.main" target="11" />
+      <module name="JetBrains-Academy.Topics-Reading_data_with_a_readln-toDouble__.main" target="11" />
       <module name="JetBrains-Academy.Topics-Relational_operators-Are_the_numbers_different.main" target="11" />
       <module name="JetBrains-Academy.Topics-Relational_operators-Check_the_sum.main" target="11" />
       <module name="JetBrains-Academy.Topics-Relational_operators-Check_the_value.main" target="11" />
+      <module name="JetBrains-Academy.Topics-Relational_operators-Check_the_value__1_.main" target="11" />
       <module name="JetBrains-Academy.Topics-Relational_operators-Exactly_one_parameter_is_positive.main" target="11" />
       <module name="JetBrains-Academy.Topics-Relational_operators-Groundhogs_at_the_party.main" target="11" />
+      <module name="JetBrains-Academy.Topics-Relational_operators-Inbetween.main" target="11" />
+      <module name="JetBrains-Academy.Topics-Relational_operators-Job_offer.main" target="11" />
       <module name="JetBrains-Academy.Topics-Relational_operators-Theory.main" target="11" />
+      <module name="JetBrains-Academy.Topics-Relational_operators-When_the_result_is_true.main" target="11" />
       <module name="JetBrains-Academy.Topics-Repeating_blocks-Counting_positive_numbers.main" target="11" />
       <module name="JetBrains-Academy.Topics-Repeating_blocks-Grades.main" target="11" />
       <module name="JetBrains-Academy.Topics-Repeating_blocks-Kotlin_x5.main" target="11" />
@@ -143,7 +216,9 @@
       <module name="JetBrains-Academy.Topics-Standard_output-We_need_to_learn_Kotlin.main" target="11" />
       <module name="JetBrains-Academy.Topics-String_basics-Addition_and_multiplication.main" target="11" />
       <module name="JetBrains-Academy.Topics-String_basics-Appending_numbers_to_strings.main" target="11" />
+      <module name="JetBrains-Academy.Topics-String_basics-Concatenation.main" target="11" />
       <module name="JetBrains-Academy.Topics-String_basics-Correct_ways_to_create_a_string.main" target="11" />
+      <module name="JetBrains-Academy.Topics-String_basics-Fix_it.main" target="11" />
       <module name="JetBrains-Academy.Topics-String_basics-JSON.main" target="11" />
       <module name="JetBrains-Academy.Topics-String_basics-Theory.main" target="11" />
       <module name="JetBrains-Academy.Topics-String_templates-Arithmetic_expression.main" target="11" />
@@ -176,15 +251,37 @@
       <module name="JetBrains-Academy.Topics-Values_and_variables-val_or_var.main" target="11" />
       <module name="JetBrains-Academy.Topics-Values_and_variables-Very_Big_Number.main" target="11" />
       <module name="JetBrains-Academy.Topics-Values_and_variables-What_is_the_value_of_a_variable.main" target="11" />
+      <module name="JetBrains-Academy.Topics-When_expression-Direction.main" target="11" />
+      <module name="JetBrains-Academy.Topics-When_expression-Find_the_output.main" target="11" />
+      <module name="JetBrains-Academy.Topics-When_expression-Find_the_output__1_.main" target="11" />
+      <module name="JetBrains-Academy.Topics-When_expression-FTN-Numbers.main" target="11" />
+      <module name="JetBrains-Academy.Topics-When_expression-Harry_Potter.main" target="11" />
+      <module name="JetBrains-Academy.Topics-When_expression-Select_correct_branches.main" target="11" />
+      <module name="JetBrains-Academy.Topics-When_expression-Shape.main" target="11" />
+      <module name="JetBrains-Academy.Topics-When_expression-String_processor.main" target="11" />
+      <module name="JetBrains-Academy.Topics-When_expression-Theory.main" target="11" />
+      <module name="JetBrains-Academy.Topics-While_loops-The_first_position_of_the_largest_element.main" target="11" />
+      <module name="JetBrains-Academy.Topics-While_loops-The_largest_element.main" target="11" />
+      <module name="JetBrains-Academy.Topics-While_loops-The_sequence_1_2_2_3_3_3.main" target="11" />
+      <module name="JetBrains-Academy.Topics-While_loops-The_sum_of_elements.main" target="11" />
+      <module name="JetBrains-Academy.Topics-While_loops-The_sum_of_elements__1_.main" target="11" />
+      <module name="JetBrains-Academy.Topics-While_loops-The_sum_of_elements__2_.main" target="11" />
+      <module name="JetBrains-Academy.Topics-While_loops-Theory.main" target="11" />
+      <module name="JetBrains-Academy.Topics-While_loops-What_does_the_code_print.main" target="11" />
       <module name="JetBrains-Academy.Topics-Work_with_MutableLists-Adding_lists.main" target="11" />
+      <module name="JetBrains-Academy.Topics-Work_with_MutableLists-Changing_the_existing_values.main" target="11" />
       <module name="JetBrains-Academy.Topics-Work_with_MutableLists-Empty.main" target="11" />
       <module name="JetBrains-Academy.Topics-Work_with_MutableLists-Help_the_Lord_Commander.main" target="11" />
+      <module name="JetBrains-Academy.Topics-Work_with_MutableLists-Initialization.main" target="11" />
       <module name="JetBrains-Academy.Topics-Work_with_MutableLists-Playing_with_numbers.main" target="11" />
       <module name="JetBrains-Academy.Topics-Work_with_MutableLists-Theory.main" target="11" />
+      <module name="JetBrains-Academy.Topics-Work_with_MutableLists-Yet_another_list.main" target="11" />
       <module name="JetBrains-Academy.Topics-Working_with_strings-Length_check.main" target="11" />
       <module name="JetBrains-Academy.Topics-Working_with_strings-Name_Card.main" target="11" />
+      <module name="JetBrains-Academy.Topics-Working_with_strings-Operations_and_truth.main" target="11" />
       <module name="JetBrains-Academy.Topics-Working_with_strings-The_information_about_a_person.main" target="11" />
       <module name="JetBrains-Academy.Topics-Working_with_strings-The_number_of_tens.main" target="11" />
+      <module name="JetBrains-Academy.Topics-Working_with_strings-The_same_line.main" target="11" />
       <module name="JetBrains-Academy.Topics-Working_with_strings-Theory.main" target="11" />
       <module name="JetBrains-Academy.util.main" target="11" />
       <module name="Simple_Tic-Tac-Toe.Simple_Tic-Tac-Toe-task-build-classes-java.main" target="11" />
@@ -274,6 +371,7 @@
       <module name="Simple_Tic-Tac-Toe.util.main" target="11" />
       <module name="The product of numbers from a to b.JetBrains-Academy.Topics-For_loop_and_ranges-The_product_of_numbers_from_a_to_b.main" target="11" />
       <module name="The roots of equation.JetBrains-Academy.Topics-For_loop_and_ranges-The_roots_of_equation.main" target="11" />
+      <module name="The same object (1).JetBrains-Academy.Topics-Equality-The_same_object__1_.main" target="11" />
       <module name="The sum of integers from a to b.JetBrains-Academy.Topics-For_loop_and_ranges-The_sum_of_integers_from_a_to_b.main" target="11" />
       <module name="The sum of N numbers.JetBrains-Academy.Topics-For_loop_and_ranges-The_sum_of_N_numbers.main" target="11" />
       <module name="Theory.JetBrains-Academy.Topics-For_loop_and_ranges-Theory.main" target="11" />

@@ -21,6 +21,7 @@
               </args>
             </stringArg>
             <stringArg name="destination" arg="$MODULE_DIR$/../../../../../Topics/String basics/Correct ways to create a string/build/classes/kotlin/main" />
+            <stringArg name="jvmTarget" arg="1.8" />
             <stringArg name="moduleName" arg="Topics-String_basics-Correct_ways_to_create_a_string" />
             <stringArg name="apiVersion" arg="1.6" />
             <stringArg name="languageVersion" arg="1.6" />

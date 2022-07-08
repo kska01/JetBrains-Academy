@@ -21,6 +21,7 @@
               </args>
             </stringArg>
             <stringArg name="destination" arg="$MODULE_DIR$/../../../../../Topics/Boolean and logical operations/Invitations and gifts/build/classes/kotlin/main" />
+            <stringArg name="jvmTarget" arg="1.8" />
             <stringArg name="moduleName" arg="Topics-Boolean_and_logical_operations-Invitations_and_gifts" />
             <stringArg name="apiVersion" arg="1.6" />
             <stringArg name="languageVersion" arg="1.6" />

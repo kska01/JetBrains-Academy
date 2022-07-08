@@ -10,6 +10,9 @@ files:
         // put your code here
     }
   learner_created: false
+- name: src/main.jar
+  visible: true
+  learner_created: true
 feedback_link: https://hyperskill.org/learn/step/4449#comment
 status: Solved
 feedback:
